@@ -1,3 +1,5 @@
+[Instructions can be found here](https://github.com/askalia/enlaps-sequence-app/blob/master/TEST_TECHNIQUE.pdf)
+
 # Install & run the web-app
 1. Fetch the project on your local machine
 > $ git clone https://gitlab.com/askalia/sequence-app.git
